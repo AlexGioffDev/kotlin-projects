@@ -1,0 +1,37 @@
+# Android Studio specific
+.idea/
+*.iml
+.gradle/
+local.properties
+*.hprof
+.DS_Store
+
+# Android specific
+/build/
+captures/
+output/
+
+# Kotlin specific
+*.kotlin_build_cache/
+*.kotlin_incremental/
+
+# Gradle specific
+.gradle/
+build/
+!gradle-wrapper.jar
+gradle-wrapper.properties
+gradle.properties
+
+# OS specific
+Thumbs.db
+ehthumbs.db
+
+# Android NDK
+/ndkBuild/
+
+# JetBrains specific
+.idea/
+
+# IntelliJ IDEA
+*.iws
+*.ipr
