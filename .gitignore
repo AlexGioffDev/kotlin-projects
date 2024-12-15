@@ -35,3 +35,6 @@ ehthumbs.db
 # IntelliJ IDEA
 *.iws
 *.ipr
+
+# Folders
+FirstApp/
